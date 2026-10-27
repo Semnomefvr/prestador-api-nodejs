@@ -1,0 +1,12 @@
+{
+  "name": "prestador-api",
+  "version": "1.0.0",
+  "description": "API CRUD de prestadores de servicos gerais",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
